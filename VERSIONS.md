@@ -10,4 +10,5 @@
 | v1.5 | 2026-04-13 | 新增：自动保存配置功能，每次生成密码后自动保存所有设置，下次打开自动恢复上次配置 | password-generator-v1.5.html |
 | v1.6 | 2026-04-13 | 优化密码规则：字母/数字/特殊符号每种选中类型至少占 25%，特殊符号不允许连续出现 | password-generator-v1.6.html |
 | v1.7 | 2026-04-13 | 优化：强制首字母大写时，首字母排除易混淆字符 I（避免和 1/i 混淆） | password-generator-v1.7.html |
-| v1.8 (v1.1.0) | 2026-04-17 | 新增：localStorage 存储上限保护，限制总存储不超过 5MB，避免缓存过大 | password-generator.html (当前) |
+| v1.8 (v1.1.0) | 2026-04-17 | 新增：localStorage 存储上限保护，限制总存储不超过 5MB，避免缓存过大 | password-generator.html |
+| v1.9 | 2026-06-02 | 优化：使用 crypto.getRandomValues 生成安全随机数；默认特殊符号改为 !@#$%&*，默认排除字符改为 ~^() 且优先生效，默认长度 12、生成个数 5、首字母强制大写开启 | password-generator.html (当前) |
