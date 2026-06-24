@@ -6,7 +6,7 @@
 
 ## 界面预览
 
-<img src="./README.assets/screenshot-zh.png" alt="界面总览" style="zoom:33%;" />
+<img src="README.assets/image-20260624095852721.png" alt="image-20260624095852721" style="zoom: 50%;" />
 
 ## 功能特性
 

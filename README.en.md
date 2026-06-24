@@ -6,7 +6,7 @@ A fully **offline**, single-file, browser-side random password generator that co
 
 ## Preview
 
-<img src="./README.en.assets/screenshot-en.png" alt="Overview" style="zoom:33%;" />
+<img src="README.en.assets/image-20260624095913451.png" alt="image-20260624095913451" style="zoom:50%;" />
 
 ## Features
 
