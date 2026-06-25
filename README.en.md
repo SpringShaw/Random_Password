@@ -2,15 +2,15 @@
 
 **English** | [简体中文](./README.md)
 
-A fully **offline**, single-file, browser-side random password generator that combines custom password length, character type selection, excluded characters, custom special symbols, weak-password keyword blocking, batch generation, one-click copy, and bilingual switching — all powered by the browser's `crypto.getRandomValues` for cryptographically secure randomness. Every password is generated locally and no data ever leaves the browser.
+> A **fully offline**, single-file, browser-based random password generator featuring custom password length, character type selection, excluded characters, custom special symbols, weak-password keyword blocking, batch generation, one-click copy, and bilingual UI — all powered by the browser's `crypto.getRandomValues` for cryptographically secure randomness. Every password is generated locally; no data ever leaves the browser.
 
 ## Preview
 
-<img src="README.en.assets/image-20260624102136106.png" alt="image-20260624102136106" style="zoom:50%;" />
+<img src="./README.en.assets/image-20260624102136106.png" alt="Preview" style="zoom:33%;" />
 
 ## Features
 
-### 🔐 Password Generation
+### 🔐 Password Generation Core
 - Custom password length (1–20 characters)
 - Generate 1–20 passwords at once
 - Uses `crypto.getRandomValues` for cryptographically secure randomness with rejection sampling to avoid modulo bias
