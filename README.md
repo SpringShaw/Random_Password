@@ -1,8 +1,35 @@
+<div align="center">
+
 # 离线随机密码生成器
 
-[English](./README.en.md) | **简体中文**
+**单文件 · 完全离线 · 密码学安全随机数**
 
-> 一个**完全离线**的单文件浏览器端随机密码生成工具，集成自定义密码长度、字符类型选择、排除字符、自定义特殊符号、弱密码关键词屏蔽、批量生成、一键复制、中英文切换等功能，使用浏览器 `crypto.getRandomValues` 生成密码学安全随机数，所有密码仅在本地生成，不上传任何数据。
+[English](./README.en.md) · **简体中文**
+
+<br>
+
+[![Single File](https://img.shields.io/badge/Single%20File-HTML-blue?style=flat-square)](./password-generator.html)
+[![Offline](https://img.shields.io/badge/Offline-100%25-green?style=flat-square)](./password-generator.html)
+[![No Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey?style=flat-square)](./password-generator.html)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](./vercel.json)
+[![Bilingual](https://img.shields.io/badge/UI-中文%20%7C%20English-orange?style=flat-square)](./password-generator.html)
+[![Version](https://img.shields.io/badge/Version-v1.11-blueviolet?style=flat-square)](./VERSIONS.md)
+
+<br>
+
+[快速开始](#-快速开始) ·
+[功能特性](#-功能特性) ·
+[界面预览](#界面预览) ·
+[版本历史](#版本历史) ·
+[在线预览](./password-generator.html)
+
+</div>
+
+---
+
+## 概览
+
+> **密码不应离开你的浏览器。** 本工具在本地用 `crypto.getRandomValues` 生成密码学安全随机密码，零服务器、零上传、零依赖——打开 HTML 文件即可用。集成自定义长度、字符类型、排除规则、弱密码屏蔽、批量生成、一键复制与中英文切换，所有配置自动保存，下次打开即用。
 
 ## 界面预览
 
@@ -46,9 +73,15 @@
 - 内置锁形 SVG favicon，与页面渐变风格一致
 - 浏览器标签页更易识别
 
-## 使用方式
+## 🚀 快速开始
 
-直接用浏览器打开 `password-generator.html` 即可使用，无需部署，无需服务器，完全离线运行。
+### 方式一：本地打开（推荐）
+
+直接用浏览器打开 [`password-generator.html`](./password-generator.html) 即可使用，无需部署，无需服务器，完全离线运行。
+
+### 方式二：Vercel 在线部署
+
+项目自带 [`vercel.json`](./vercel.json)，Fork 后导入 Vercel 即可一键部署；根路径 `/` 自动指向密码生成器页面。
 
 ## 版本历史
 
@@ -62,3 +95,18 @@
 - 🛡️ 智能规则保证密码复杂度
 - 💾 自动保存配置，打开即用
 - 🌐 中英文双语支持，自动识别浏览器语言
+
+---
+
+<div align="center">
+
+## 📬 联系我
+
+- 🌐 **主页：** [springshaw.top](https://springshaw.top/)
+- ✉️ **邮箱：** [springshaw2046@outlook.com](mailto:springshaw2046@outlook.com)
+
+<br>
+
+[↑ 回到顶部](#离线随机密码生成器)
+
+</div>

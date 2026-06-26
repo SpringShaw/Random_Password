@@ -1,8 +1,35 @@
+<div align="center">
+
 # Offline Random Password Generator
 
-**English** | [简体中文](./README.md)
+**Single File · Fully Offline · Cryptographically Secure**
 
-> A **fully offline**, single-file, browser-based random password generator featuring custom password length, character type selection, excluded characters, custom special symbols, weak-password keyword blocking, batch generation, one-click copy, and bilingual UI — all powered by the browser's `crypto.getRandomValues` for cryptographically secure randomness. Every password is generated locally; no data ever leaves the browser.
+**English** · [简体中文](./README.md)
+
+<br>
+
+[![Single File](https://img.shields.io/badge/Single%20File-HTML-blue?style=flat-square)](./password-generator.html)
+[![Offline](https://img.shields.io/badge/Offline-100%25-green?style=flat-square)](./password-generator.html)
+[![No Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey?style=flat-square)](./password-generator.html)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](./vercel.json)
+[![Bilingual](https://img.shields.io/badge/UI-English%20%7C%20中文-orange?style=flat-square)](./password-generator.html)
+[![Version](https://img.shields.io/badge/Version-v1.11-blueviolet?style=flat-square)](./VERSIONS.md)
+
+<br>
+
+[Get Started](#-get-started) ·
+[Features](#-features) ·
+[Preview](#preview) ·
+[Changelog](#changelog) ·
+[Live Preview](./password-generator.html)
+
+</div>
+
+---
+
+## Overview
+
+> **Your passwords never leave the browser.** This tool generates cryptographically secure passwords locally with `crypto.getRandomValues` — zero servers, zero uploads, zero dependencies. Just open the HTML file and go. Custom length, character types, exclusion rules, weak-password blocking, batch generation, one-click copy, and bilingual UI are all built in. Settings auto-save so everything is ready on your next visit.
 
 ## Preview
 
@@ -46,9 +73,15 @@
 - Inline lock-shaped SVG favicon that matches the page's gradient theme
 - Makes the browser tab easy to identify
 
-## Usage
+## 🚀 Get Started
 
-Open `password-generator.html` directly in a browser. No deployment or server is required; everything runs offline.
+### Option 1: Open Locally (Recommended)
+
+Open [`password-generator.html`](./password-generator.html) directly in your browser. No deployment or server required — everything runs offline.
+
+### Option 2: Deploy on Vercel
+
+The repo includes [`vercel.json`](./vercel.json). Fork the project, import it into Vercel, and deploy with one click. The root path `/` routes to the password generator.
 
 ## Changelog
 
@@ -62,3 +95,18 @@ See [VERSIONS.md](./VERSIONS.md) for detailed version history.
 - 🛡️ Smart rules ensure password complexity
 - 💾 Settings auto-saved, ready to use on next visit
 - 🌐 Bilingual Chinese/English with automatic browser language detection
+
+---
+
+<div align="center">
+
+## 📬 Contact Me
+
+- 🌐 **Website:** [springshaw.top](https://springshaw.top/)
+- ✉️ **Email:** [springshaw2046@outlook.com](mailto:springshaw2046@outlook.com)
+
+<br>
+
+[↑ Back to top](#offline-random-password-generator)
+
+</div>
