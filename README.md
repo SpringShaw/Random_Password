@@ -1,27 +1,31 @@
 <div align="center">
 
-# 离线随机密码生成器
+<h1>离线随机密码生成器</h1>
 
-**单文件 · 完全离线 · 密码学安全随机数**
-
-[English](./README.en.md) · **简体中文**
-
-<br>
+<p align="center">单文件 · 完全离线 · 密码学安全随机数</p>
 
 <p align="center">
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" /></a>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Browser-green?style=flat" alt="Platform" />
-  <a href="https://random-password.springshaw.top/"><img src="https://img.shields.io/badge/Website-random--password.springshaw.top-blue?style=flat" alt="Website" /></a>
-  <a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet?style=flat" alt="Version" /></a>
+  <a href="./README.en.md">English</a>
+  &nbsp;·&nbsp;
+  <strong>简体中文</strong>
 </p>
 
-<br>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" /></a>
+<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Browser-green?style=flat" alt="Platform" />
+<a href="https://random-password.springshaw.top/"><img src="https://img.shields.io/badge/Website-random--password.springshaw.top-blue?style=flat" alt="Website" /></a>
+<a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet?style=flat" alt="Version" /></a>
 
-[快速开始](#-快速开始) ·
-[功能特性](#-功能特性) ·
-[界面预览](#界面预览) ·
-[版本历史](#版本历史) ·
-[在线预览](https://random-password.springshaw.top/)
+<p align="center">
+  <a href="#-快速开始">快速开始</a>
+  &nbsp;·&nbsp;
+  <a href="#-功能特性">功能特性</a>
+  &nbsp;·&nbsp;
+  <a href="#界面预览">界面预览</a>
+  &nbsp;·&nbsp;
+  <a href="#版本历史">版本历史</a>
+  &nbsp;·&nbsp;
+  <a href="https://random-password.springshaw.top/">在线预览</a>
+</p>
 
 </div>
 

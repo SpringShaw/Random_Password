@@ -1,27 +1,31 @@
 <div align="center">
 
-# Offline Random Password Generator
+<h1>Offline Random Password Generator</h1>
 
-**Single File · Fully Offline · Cryptographically Secure**
-
-**English** · [简体中文](./README.md)
-
-<br>
+<p align="center">Single File · Fully Offline · Cryptographically Secure</p>
 
 <p align="center">
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" /></a>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Browser-green?style=flat" alt="Platform" />
-  <a href="https://random-password.springshaw.top/"><img src="https://img.shields.io/badge/Website-random--password.springshaw.top-blue?style=flat" alt="Website" /></a>
-  <a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet?style=flat" alt="Version" /></a>
+  <strong>English</strong>
+  &nbsp;·&nbsp;
+  <a href="./README.md">简体中文</a>
 </p>
 
-<br>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" /></a>
+<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Browser-green?style=flat" alt="Platform" />
+<a href="https://random-password.springshaw.top/"><img src="https://img.shields.io/badge/Website-random--password.springshaw.top-blue?style=flat" alt="Website" /></a>
+<a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet?style=flat" alt="Version" /></a>
 
-[Get Started](#-get-started) ·
-[Features](#-features) ·
-[Preview](#preview) ·
-[Changelog](#changelog) ·
-[Live Preview](https://random-password.springshaw.top/)
+<p align="center">
+  <a href="#-get-started">Get Started</a>
+  &nbsp;·&nbsp;
+  <a href="#-features">Features</a>
+  &nbsp;·&nbsp;
+  <a href="#preview">Preview</a>
+  &nbsp;·&nbsp;
+  <a href="#changelog">Changelog</a>
+  &nbsp;·&nbsp;
+  <a href="https://random-password.springshaw.top/">Live Preview</a>
+</p>
 
 </div>
 
