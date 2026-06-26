@@ -8,12 +8,13 @@
 
 <br>
 
-[![Single File](https://img.shields.io/badge/Single%20File-HTML-blue?style=flat-square)](./password-generator.html)
-[![Offline](https://img.shields.io/badge/Offline-100%25-green?style=flat-square)](./password-generator.html)
-[![No Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey?style=flat-square)](./password-generator.html)
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](./vercel.json)
-[![Bilingual](https://img.shields.io/badge/UI-English%20%7C%20中文-orange?style=flat-square)](./password-generator.html)
-[![Version](https://img.shields.io/badge/Version-v1.11-blueviolet?style=flat-square)](./VERSIONS.md)
+<p>
+  <a href="https://github.com/SpringShaw/Random_Password/stargazers"><img src="https://img.shields.io/github/stars/SpringShaw/Random_Password?logo=github&label=Stars" alt="GitHub Stars" /></a>
+  <a href="https://github.com/SpringShaw/Random_Password/network/members"><img src="https://img.shields.io/github/forks/SpringShaw/Random_Password?logo=github&label=Forks" alt="GitHub Forks" /></a>
+  <img src="https://img.shields.io/badge/Platform-Browser-success" alt="Platform: Browser" />
+  <a href="https://springshaw.top/"><img src="https://img.shields.io/badge/Website-springshaw.top-0A66C2" alt="Website" /></a>
+  <a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet" alt="Version" /></a>
+</p>
 
 <br>
 
