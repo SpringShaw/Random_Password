@@ -8,12 +8,11 @@
 
 <br>
 
-<p>
-  <a href="https://github.com/SpringShaw/Random_Password/stargazers"><img src="https://img.shields.io/github/stars/SpringShaw/Random_Password?logo=github&label=Stars" alt="GitHub Stars" /></a>
-  <a href="https://github.com/SpringShaw/Random_Password/network/members"><img src="https://img.shields.io/github/forks/SpringShaw/Random_Password?logo=github&label=Forks" alt="GitHub Forks" /></a>
-  <img src="https://img.shields.io/badge/Platform-Browser-success" alt="Platform: Browser" />
-  <a href="https://springshaw.top/"><img src="https://img.shields.io/badge/Website-springshaw.top-0A66C2" alt="Website" /></a>
-  <a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet" alt="Version" /></a>
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" /></a>
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Browser-green?style=flat" alt="Platform" />
+  <a href="https://random-password.springshaw.top/"><img src="https://img.shields.io/badge/Website-random--password.springshaw.top-blue?style=flat" alt="Website" /></a>
+  <a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet?style=flat" alt="Version" /></a>
 </p>
 
 <br>
@@ -22,7 +21,7 @@
 [Features](#-features) ·
 [Preview](#preview) ·
 [Changelog](#changelog) ·
-[Live Preview](./password-generator.html)
+[Live Preview](https://random-password.springshaw.top/)
 
 </div>
 
