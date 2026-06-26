@@ -21,10 +21,6 @@
   <a href="#-功能特性">功能特性</a>
   &nbsp;·&nbsp;
   <a href="#界面预览">界面预览</a>
-  &nbsp;·&nbsp;
-  <a href="#版本历史">版本历史</a>
-  &nbsp;·&nbsp;
-  <a href="https://random-password.springshaw.top/">在线预览</a>
 </p>
 
 </div>
@@ -87,10 +83,6 @@
 
 项目自带 [`vercel.json`](./vercel.json)，Fork 后导入 Vercel 即可一键部署；根路径 `/` 自动指向密码生成器页面。
 
-## 版本历史
-
-查看 [VERSIONS.md](./VERSIONS.md) 了解详细更新记录。
-
 ## 特点
 
 - ✨ 单文件，无需依赖，完全离线
@@ -106,8 +98,11 @@
 
 ## 📬 联系我
 
-- 🌐 **主页：** [springshaw.top](https://springshaw.top/)
-- ✉️ **邮箱：** [springshaw2046@outlook.com](mailto:springshaw2046@outlook.com)
+<p align="center">
+  🌐 主页：<a href="https://springshaw.top/">springshaw.top</a>
+  &nbsp;·&nbsp;
+  ✉️ 邮箱：<a href="mailto:springshaw2046@outlook.com">springshaw2046@outlook.com</a>
+</p>
 
 <br>
 

@@ -16,15 +16,11 @@
 <a href="./VERSIONS.md"><img src="https://img.shields.io/badge/Version-v1.12-blueviolet?style=flat" alt="Version" /></a>
 
 <p align="center">
-  <a href="#-get-started">Get Started</a>
+  <a href="#-get-started">Quick Start</a>
   &nbsp;·&nbsp;
   <a href="#-features">Features</a>
   &nbsp;·&nbsp;
   <a href="#preview">Preview</a>
-  &nbsp;·&nbsp;
-  <a href="#changelog">Changelog</a>
-  &nbsp;·&nbsp;
-  <a href="https://random-password.springshaw.top/">Live Preview</a>
 </p>
 
 </div>
@@ -87,10 +83,6 @@ Open [`password-generator.html`](./password-generator.html) directly in your bro
 
 The repo includes [`vercel.json`](./vercel.json). Fork the project, import it into Vercel, and deploy with one click. The root path `/` routes to the password generator.
 
-## Changelog
-
-See [VERSIONS.md](./VERSIONS.md) for detailed version history.
-
 ## Highlights
 
 - ✨ Single file, no dependencies, fully offline
@@ -106,8 +98,11 @@ See [VERSIONS.md](./VERSIONS.md) for detailed version history.
 
 ## 📬 Contact Me
 
-- 🌐 **Website:** [springshaw.top](https://springshaw.top/)
-- ✉️ **Email:** [springshaw2046@outlook.com](mailto:springshaw2046@outlook.com)
+<p align="center">
+  🌐 Website: <a href="https://springshaw.top/">springshaw.top</a>
+  &nbsp;·&nbsp;
+  ✉️ Email: <a href="mailto:springshaw2046@outlook.com">springshaw2046@outlook.com</a>
+</p>
 
 <br>
 
